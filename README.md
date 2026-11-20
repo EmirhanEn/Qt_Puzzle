@@ -1,4 +1,4 @@
-**# Qt\_Puzzle**
+**# Qt\_Puzzle\_Game**
 
 **Ktun Yazılım Mühendisliği - Görsel Programlama - Ödev\_2 - Qt Puzzle Game**
 
