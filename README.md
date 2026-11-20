@@ -1,2 +1,2 @@
 # Qt_Puzzle
-Qt ile sürükle-bırak puzzle oyunu
+Ktun Yazılım Mühendisliği - Görsel Programlama - Ödev_2 - Qt Puzzle Game
